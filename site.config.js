@@ -6,7 +6,7 @@ const CONFIG = {
     role: "MLOps/LLM Engineer, ",
     bio: "Engineer interested in MLOps, LLMOps and AI Agent",
     email: "ymg12347@gmail.com",
-    // linkedin: "suri-pu-bi",
+    linkedin: "",
     github: "suri-pu-bi",
     instagram: "",
   },
