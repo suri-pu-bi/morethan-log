@@ -10,12 +10,12 @@ const CONFIG = {
     github: "suri-pu-bi",
     instagram: "",
   },
-  projects: [
-    {
-      name: `morethan-log`,
-      href: "https://github.com/suri-pu-bi/morethan-log",
-    },
-  ],
+  // projects: [
+  //   {
+  //     name: `morethan-log`,
+  //     href: "https://github.com/suri-pu-bi/morethan-log",
+  //   },
+  // ],
   // blog setting (required)
   blog: {
     title: "kirise-log",
